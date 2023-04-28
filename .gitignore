@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .idea
 javaqa.iml
+src/
 
 ### Eclipse ###
 .apt_generated
